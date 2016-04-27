@@ -1,0 +1,24 @@
+{
+  "name": "rctui-theme-loader",
+  "author": "lobos841@gmail.com",
+  "version": "0.1.0",
+  "description": "react-ui theme loader for webpack",
+  "main": "./index.js",
+  "scripts": {
+  },
+  "keywords": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lobos/rctui-theme-loader.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lobos/rctui-theme-loader/issues"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.11"
+  },
+  "devDependencies": {
+  }
+}
