@@ -1,13 +1,11 @@
 {
   "name": "rctui-theme-loader",
   "author": "lobos841@gmail.com",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "description": "react-ui theme loader for webpack",
   "main": "./index.js",
-  "scripts": {
-  },
-  "keywords": [
-  ],
+  "scripts": {},
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "https://github.com/Lobos/rctui-theme-loader.git"
@@ -17,8 +15,7 @@
     "url": "https://github.com/lobos/rctui-theme-loader/issues"
   },
   "dependencies": {
-    "loader-utils": "^0.2.11"
+    "loader-utils": "^1.1.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
